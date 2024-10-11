@@ -92,7 +92,7 @@ This project aims to create a spy-like encrypted chat application inspired by th
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/spy-chat-app.git
+   git clone https://github.com/virtue-aina/Hihi.git
    cd spy-chat-app
    ```
 
